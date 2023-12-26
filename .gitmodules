@@ -1,0 +1,3 @@
+[submodule "learn-subrepo-b"]
+	path = learn-subrepo-b
+	url = git@github.com:RandySteven/learn-subrepo-b.git
